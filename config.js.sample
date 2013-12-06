@@ -1,0 +1,4 @@
+// config.local.js
+module.exports = {
+  api_key: "API KEY"
+};
